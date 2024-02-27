@@ -1,7 +1,6 @@
 .lh
 .DS_STORE
 
-.env
 *secret
 !*secret*.
 venv/
